@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c475b9121bee7342941e6e671dbc0c5, type: 3}
+  m_Name: BobPush
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9950380b978c8fc4bab74a80325e10a4, type: 3}
+  - {fileID: 8300000, guid: 8ef1a680a0e355547849517c0e33404e, type: 3}
+  - {fileID: 8300000, guid: d44268255f730fb4280a9fb244be7930, type: 3}
+  - {fileID: 8300000, guid: 05ce2513a3f8b3143bee4101c8891285, type: 3}
+  - {fileID: 8300000, guid: fd5b576c89c4a6840a3bd5755d1b5093, type: 3}
+  - {fileID: 8300000, guid: c8e2a4ad1d4aa1a4baa5b79eb7f36d11, type: 3}
+  PitchData: {fileID: 11400000, guid: 60524767ffd516146a802acbdf943528, type: 2}
+  Priority: 50
+  Volume: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c475b9121bee7342941e6e671dbc0c5, type: 3}
+  m_Name: CoinsFew
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 9e3e91b4c79d3a84a83d336b2d853cae, type: 3}
+  - {fileID: 8300000, guid: a7df8bcb4fe83514685c73a1363b9946, type: 3}
+  - {fileID: 8300000, guid: 7662aedd0819a1a40b3cfb7e0630b4c1, type: 3}
+  - {fileID: 8300000, guid: db8f922ddc1acbd4f8e0dfa15b2754c4, type: 3}
+  PitchData: {fileID: 11400000, guid: 60524767ffd516146a802acbdf943528, type: 2}
+  Priority: 50
+  Volume: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c475b9121bee7342941e6e671dbc0c5, type: 3}
+  m_Name: DigSoft
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: c20904d1a69ab7f4f8f2832b74d79d79, type: 3}
+  - {fileID: 8300000, guid: c2976e7c64af0cc469ce527533f2daad, type: 3}
+  PitchData: {fileID: 11400000, guid: 60524767ffd516146a802acbdf943528, type: 2}
+  Priority: 128
+  Volume: 0.4
